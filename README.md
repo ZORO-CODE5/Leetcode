@@ -23,6 +23,7 @@ solving leetcode problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -49,4 +50,8 @@ solving leetcode problem
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
