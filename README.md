@@ -28,6 +28,7 @@ solving leetcode problem
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
 ## Brainteaser
