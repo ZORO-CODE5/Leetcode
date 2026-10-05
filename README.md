@@ -28,6 +28,7 @@ solving leetcode problem
 | ------- |
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ solving leetcode problem
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
