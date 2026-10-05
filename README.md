@@ -7,6 +7,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShamiAhmed67/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ZORO-CODE5/Leetcode/tree/master/0856-score-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShamiAhmed67/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -16,10 +17,12 @@ solving leetcode problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShamiAhmed67/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ZORO-CODE5/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShamiAhmed67/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ZORO-CODE5/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
