@@ -36,6 +36,7 @@ solving leetcode problem
 | ------- |
 | [0009-palindrome-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,9 +90,14 @@ solving leetcode problem
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZORO-CODE5/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
