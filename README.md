@@ -10,6 +10,7 @@ solving leetcode problem
 | [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/ZORO-CODE5/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ZORO-CODE5/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZORO-CODE5/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShamiAhmed67/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -32,6 +33,7 @@ solving leetcode problem
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZORO-CODE5/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZORO-CODE5/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
