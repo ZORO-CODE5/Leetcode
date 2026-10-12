@@ -7,6 +7,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShamiAhmed67/Leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/ZORO-CODE5/Leetcode/tree/master/0856-score-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShamiAhmed67/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -71,6 +72,7 @@ solving leetcode problem
 | ------- |
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +103,12 @@ solving leetcode problem
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
