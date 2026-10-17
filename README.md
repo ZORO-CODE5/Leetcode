@@ -37,6 +37,7 @@ solving leetcode problem
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZORO-CODE5/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZORO-CODE5/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ solving leetcode problem
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ZORO-CODE5/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@ solving leetcode problem
 | ------- |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
