@@ -16,6 +16,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShamiAhmed67/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -58,6 +59,7 @@ solving leetcode problem
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3099-harshad-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/3360-stone-removal-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
