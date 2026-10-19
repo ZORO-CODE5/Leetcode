@@ -35,6 +35,7 @@ solving leetcode problem
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZORO-CODE5/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZORO-CODE5/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
@@ -131,6 +132,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
@@ -141,6 +143,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
