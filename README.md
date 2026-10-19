@@ -57,6 +57,7 @@ solving leetcode problem
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3099-harshad-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/3099-harshad-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
