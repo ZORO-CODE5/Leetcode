@@ -51,6 +51,7 @@ solving leetcode problem
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ZORO-CODE5/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ZORO-CODE5/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
