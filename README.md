@@ -49,6 +49,7 @@ solving leetcode problem
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ZORO-CODE5/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -89,6 +90,7 @@ solving leetcode problem
 | ------- |
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ZORO-CODE5/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ZORO-CODE5/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -96,6 +98,7 @@ solving leetcode problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -143,6 +146,7 @@ solving leetcode problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
