@@ -42,6 +42,7 @@ solving leetcode problem
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ShamiAhmed67/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ solving leetcode problem
 | [3099-harshad-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/3099-harshad-number) |
 | [3360-stone-removal-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/3360-stone-removal-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ShamiAhmed67/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -124,6 +126,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZORO-CODE5/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ShamiAhmed67/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -143,6 +146,7 @@ solving leetcode problem
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/ShamiAhmed67/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
