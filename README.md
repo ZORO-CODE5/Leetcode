@@ -43,6 +43,7 @@ solving leetcode problem
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ZORO-CODE5/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/ShamiAhmed67/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ShamiAhmed67/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
