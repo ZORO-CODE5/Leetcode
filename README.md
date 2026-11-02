@@ -35,6 +35,7 @@ solving leetcode problem
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ShamiAhmed67/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/ZORO-CODE5/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -58,6 +59,7 @@ solving leetcode problem
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShamiAhmed67/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ZORO-CODE5/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ZORO-CODE5/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -149,6 +151,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
