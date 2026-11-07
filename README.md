@@ -98,6 +98,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShamiAhmed67/Leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/ShamiAhmed67/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0268-missing-number) |
@@ -128,6 +129,7 @@ solving leetcode problem
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ShamiAhmed67/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 | [2396-strictly-palindromic-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Enumeration
@@ -138,6 +140,7 @@ solving leetcode problem
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ShamiAhmed67/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/0202-happy-number) |
 ## Queue
 |  |
@@ -213,4 +216,8 @@ solving leetcode problem
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ZORO-CODE5/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3665-twisted-mirror-path-count](https://github.com/ZORO-CODE5/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ShamiAhmed67/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
