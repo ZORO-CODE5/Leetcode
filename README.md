@@ -39,6 +39,7 @@ solving leetcode problem
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/ZORO-CODE5/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1882-process-tasks-using-servers](https://github.com/ZORO-CODE5/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZORO-CODE5/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZORO-CODE5/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -163,6 +164,7 @@ solving leetcode problem
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1882-process-tasks-using-servers](https://github.com/ZORO-CODE5/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2974-minimum-number-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
