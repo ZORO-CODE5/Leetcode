@@ -40,6 +40,7 @@ solving leetcode problem
 | [1254-number-of-closed-islands](https://github.com/ZORO-CODE5/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ZORO-CODE5/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ZORO-CODE5/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/ZORO-CODE5/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZORO-CODE5/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -67,6 +68,7 @@ solving leetcode problem
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ZORO-CODE5/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/ZORO-CODE5/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/ZORO-CODE5/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -114,6 +116,7 @@ solving leetcode problem
 | [0264-ugly-number-ii](https://github.com/ZORO-CODE5/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/ShamiAhmed67/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ZORO-CODE5/Leetcode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ZORO-CODE5/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/ZORO-CODE5/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
@@ -232,4 +235,8 @@ solving leetcode problem
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShamiAhmed67/Leetcode/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ZORO-CODE5/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
