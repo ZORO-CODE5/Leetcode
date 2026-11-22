@@ -11,6 +11,7 @@ solving leetcode problem
 | [0856-score-of-parentheses](https://github.com/ZORO-CODE5/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ZORO-CODE5/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ZORO-CODE5/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ZORO-CODE5/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/ZORO-CODE5/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShamiAhmed67/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
